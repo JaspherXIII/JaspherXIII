@@ -1,11 +1,11 @@
 <h1>Hi there 👋 I'm Mark Jaspher R. Juan!</h1>
 
 <p>
-  <em>✨ Web Developer | Fresh Graduate of BSIT ✨</em>
+  <em>✨ Web Developer ✨</em>
 </p>
 
 <p>
-  I'm a passionate software engineer with a fresh degree in Information Technology, eager to contribute and grow in the tech world. My skills range from front-end to back-end development, with a particular focus on creating dynamic and responsive web applications.
+  I'm a passionate web developer with a degree in Information Technology, eager to contribute and grow in the tech world. My skills range from front-end to back-end development, with a particular focus on creating dynamic and responsive web applications.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaspherxiii&label=Profile%20views&color=0e75b6&style=flat" alt="jaspherxiii" /> </p>
