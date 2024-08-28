@@ -8,6 +8,8 @@
   I'm a passionate software engineer with a fresh degree in Information Technology, eager to contribute and grow in the tech world. My skills range from front-end to back-end development, with a particular focus on creating dynamic and responsive web applications.
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaspherxiii&label=Profile%20views&color=0e75b6&style=flat" alt="jaspherxiii" /> </p>
+
 <h2>🔭 I’m currently working on</h2>
 
 <ul>
