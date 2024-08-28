@@ -70,6 +70,4 @@
 
 <p>When I'm not coding, you might find me exploring the latest tech trends or playing a good game of chess!</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaspherxiii&show_icons=true&locale=en&layout=compact" alt="jaspherxiii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaspherxiii&show_icons=true&locale=en" alt="jaspherxiii" /></p>
