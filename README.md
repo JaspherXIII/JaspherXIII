@@ -16,7 +16,7 @@
   </li>
 </ul>
 
-<h2">🌱 I’m currently learning</h2>
+<h2>🌱 I’m currently learning</h2>
 
 <ul>
   <li>Advanced Laravel techniques</li>
@@ -24,7 +24,7 @@
   <li>Modern JavaScript frameworks</li>
 </ul>
 
-<h2">💻 My Tech Stack</h2>
+<h2>💻 My Tech Stack</h2>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
