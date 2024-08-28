@@ -1,17 +1,31 @@
-<h1 align="center">Hi 👋, I'm Mark Jaspher R. Juan</h1>
-<h3 align="center">A passionate software engineer from Philippines</h3>
+Hi there 👋 I'm Mark Jaspher R. Juan!
+✨ Software Engineer | Fresh Graduate of BSIT ✨
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaspherxiii&label=Profile%20views&color=0e75b6&style=flat" alt="jaspherxiii" /> </p>
+I'm a passionate software engineer with a fresh degree in Information Technology, eager to contribute and grow in the tech world. My skills range from front-end to back-end development, with a particular focus on creating dynamic and responsive web applications.
 
-- 📫 How to reach me **markjasjuan@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaspherxiii&show_icons=true&locale=en&layout=compact" alt="jaspherxiii" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaspherxiii&show_icons=true&locale=en" alt="jaspherxiii" /></p>
+🔭 I’m currently working on
+SK Checklist: A project dedicated to helping Barangay San Isidro with streamlined checklist management.
+🌱 I’m currently learning
+Advanced Laravel techniques
+RESTful API development
+Modern JavaScript frameworks
+💻 My Tech Stack
+Frontend: HTML, CSS, Bootstrap
+Backend: CakePHP, Laravel
+Tools: Git, MySQL, VS Code
+👯 I’m looking to collaborate on
+Open-source Laravel projects
+Web development communities
+🤔 I’m looking for help with
+Transitioning to more complex back-end frameworks
+Building a strong developer community network
+💬 Ask me about
+Best practices in Laravel and CakePHP
+How to get started with full-stack web development
+📫 How to reach me
+Email: markjasjuan@gmail.com
+LinkedIn: Mark Jaspher R. Juan (You can add your LinkedIn link here)
+😄 Pronouns
+He/Him
+⚡ Fun fact
+When I'm not coding, you might find me exploring the latest tech trends or playing a good game of chess!
