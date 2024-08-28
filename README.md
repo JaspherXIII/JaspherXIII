@@ -1,7 +1,7 @@
 <h1>Hi there 👋 I'm Mark Jaspher R. Juan!</h1>
 
 <p>
-  <em>✨ Software Engineer | Fresh Graduate of BSIT ✨</em>
+  <em>✨ Web Developer | Fresh Graduate of BSIT ✨</em>
 </p>
 
 <p>
