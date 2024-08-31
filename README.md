@@ -70,4 +70,14 @@
 
 <p>When I'm not coding, you might find me exploring the latest tech trends or playing a good game of chess!</p>
 
+<h2>📈 My GitHub Stats</h2>
 
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaspherxiii&theme=dark&hide_border=true" alt="Streak Stats" />
+</p>
+
+<h2>🎨 Snake Effect</h2>
+
+<p>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Effect" />
+</p>
