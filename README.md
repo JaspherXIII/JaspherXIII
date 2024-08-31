@@ -5,10 +5,6 @@
 </h1>
 
 <p align="center">
-  <em>✨ Web Developer ✨</em>
-</p>
-
-<p align="center">
   I'm a passionate web developer with a degree in Information Technology, eager to contribute and grow in the tech world. My skills range from front-end to back-end development, with a particular focus on creating dynamic and responsive web applications.
 </p>
 
