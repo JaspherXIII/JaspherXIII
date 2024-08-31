@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/docs/assets/marquee.svg" alt="Typing Animation"/>
-  <br>
   Hi there 👋 I'm Mark Jaspher R. Juan!
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Passionate+About+Code;Learning+New+Technologies;Always+Growing&center=true&size=30" alt="Typing Animation"/>
 </h1>
 
 <p align="center">
@@ -12,8 +12,8 @@
   I'm a passionate web developer with a degree in Information Technology, eager to contribute and grow in the tech world. My skills range from front-end to back-end development, with a particular focus on creating dynamic and responsive web applications.
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=jaspherxiii&label=Profile%20views&color=0e75b6&style=flat" alt="jaspherxiii" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaspherxiii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaspherxiii&theme=dark&hide_border=true" alt="Streak Stats" />
   <br>
@@ -89,5 +89,5 @@
 <h2 align="center">🚀 My GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jaspherxiii&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jaspherxiii&theme=react-dark" alt="Activity Graph" />
 </p>
