@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there 👋 I'm Mark Jaspher R. Juan!
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Passionate+About+Code;Learning+New+Technologies;Always+Growing&center=true&size=30" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Always+Growing&center=true&size=30" alt="Typing Animation"/>
 </h1>
 
 <p align="center">
@@ -16,8 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=jaspherxiii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaspherxiii&theme=dark&hide_border=true" alt="Streak Stats" />
-  <br>
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Effect" />
 </p>
 
 <h2 align="center">🔭 I’m currently working on</h2>
@@ -86,8 +84,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jaspherxiii&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<h2 align="center">🚀 My GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jaspherxiii&theme=react-dark" alt="Activity Graph" />
-</p>
