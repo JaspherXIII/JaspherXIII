@@ -26,8 +26,7 @@
 
 <ul>
   <li>Advanced Laravel techniques</li>
-  <li>RESTful API development</li>
-  <li>Modern JavaScript frameworks</li>
+  <li>Public Key Infrastructure (PKI)</li>
 </ul>
 
 <h2 align="center">💻 My Tech Stack</h2>
