@@ -21,7 +21,7 @@
     <strong><a href="https://stgo-sanisidro-skchecklist.com/">SK Checklist</a>:</strong> A project dedicated to helping Barangay San Isidro with streamlined checklist management.
   </li>
     <li>
-    <strong><a href="https://project-tapat.online/">Project TAPAT</a>:</strong> A revolutionary initiative aimed at enhancing tricycle transportation in densely populated urban areas, starting in Santiago City. The project addresses the lack of essential mechanisms for passenger assistance, monitoring, and traceability, which often leads to safety hazards and regulatory challenges.
+    <strong><a href="https://project-tapat.online/">Project TAPAT</a>:</strong> The project addresses the lack of essential mechanisms for passenger assistance, monitoring, and traceability, which often leads to safety hazards and regulatory challenges.
   </li>
 </ul>
 
