@@ -18,10 +18,10 @@
 
 <ul>
   <li>
-    <strong><a href="https://stgo-sanisidro-skchecklist.com/">SK Checklist</a>:</strong> A project dedicated to helping Barangay San Isidro with streamlined checklist management.
+    <strong><a href="https://stgo-sanisidro-skchecklist.com/">SK Checklist</a>:</strong> A streamlined checklist management system for Barangay San Isidro, enhancing coordination and efficiency in community projects.
   </li>
     <li>
-    <strong><a href="https://project-tapat.online/">Project TAPAT</a>:</strong> The project addresses the lack of essential mechanisms for passenger assistance, monitoring, and traceability, which often leads to safety hazards and regulatory challenges.
+    <strong><a href="https://project-tapat.online/">Project TAPAT</a>:</strong> A comprehensive solution for passenger safety and traceability, improving real-time tracking and regulatory compliance.
   </li>
 </ul>
 
