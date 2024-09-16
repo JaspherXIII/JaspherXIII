@@ -24,7 +24,7 @@
     <strong><a href="https://project-tapat.online/">Project TAPAT</a>:</strong> A comprehensive solution for passenger safety and traceability, improving real-time tracking and regulatory compliance.
   </li>
   <li>
-    <strong><a href="https://laravelcrudgenerator.donecreatives.online/">Laravel CRUD Generator</a>:</strong> Automates the creation of models, controllers, views, routes, and migrations with DataTables, AJAX, and form validation. It handles relationships, generates dropdowns for foreign keys, and displays syntax-highlighted code for easy integration into Laravel projects, streamlining development.
+    <strong><a href="https://laravelcrudgenerator.donecreatives.online/">Laravel CRUD Generator</a>:</strong> Automates the creation of models, controllers, views, routes, and migrations with DataTables, AJAX, and form validation.
   </li>
 </ul>
 
