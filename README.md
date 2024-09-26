@@ -33,7 +33,6 @@
 
 <ul>
   <li>Advanced Laravel techniques</li>
-  <li>Public Key Infrastructure (PKI)</li>
 </ul>
 
 <h2 align="center">💻 My Tech Stack</h2>
