@@ -8,7 +8,7 @@
   I'm a passionate web developer with a degree in Information Technology, eager to contribute and grow in the tech world. My skills range from front-end to back-end development, with a particular focus on creating dynamic and responsive web applications.
 </p>
 
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jaspherxiii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaspherxiii&theme=dark&hide_border=true" alt="Streak Stats" />
